@@ -8,9 +8,13 @@ or two XML files, or whatever can be made to implement these methods.
 ## Algorithm
 The algorithm consists of recursively finding the longest common
 subsequence (`LCS`) of two lists as follows: Let
-`X = (x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>)`
+
+X = (x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>)
+
 and
-`Y = (y<sub>1</sub>, y<sub>2</sub>, ..., y<sub>m</sub>)`.
+
+Y = (y<sub>1</sub>, y<sub>2</sub>, ..., y<sub>m</sub>).
+
 Then
 
 ```
