@@ -1,0 +1,50 @@
+02050,Marshfield,MA
+02858,Oakland,RI
+02911,North Providence,RI
+03262,North Woodstock,NH
+03272,South Newbury,NH
+04855,Port Clyde,ME
+07663,Saddle Brook,NJ
+10532,Hawthorne,NY
+11427,Queens Village,NY
+12151,Round Lake,NY
+12866,Saratoga Springs,NY
+13606,Adams Center,NY
+14070,Gowanda,NY
+15336,Gastonville,PA
+17324,Gardners,PA
+17364,Thomasville,PA
+20380,Washington,DC
+20388,Washington Navy Yard,DC
+20392,Washington,DC
+20708,Laurel,MD
+27107,Winston Salem,NC
+30655,Monroe,GA
+31404,Savannah,GA
+33706,Saint Petersburg,FL
+35266,Birmingham,AL
+35761,New Market,AL
+36053,Midway,AL
+36470,Perdue Hill,AL
+37384,Soddy Daisy,TN
+52335,South English,IA
+58705,Minot Air Force Base,ND
+59116,Billings,MT
+59226,Froid,MT
+61529,Elmwood,IL
+63039,Gray Summit,MO
+63563,Rutledge,MO
+65285,Thompson,MO
+66949,Jewell,KS
+67065,Isabel,KS
+68979,Sutton,NE
+70114,New Orleans,LA
+70160,New Orleans,LA
+89103,Las Vegas,NV
+91977,Spring Valley,CA
+92169,San Diego,CA
+93447,Paso Robles,CA
+97217,Portland,OR
+98062,Seahurst,WA
+98351,Longbranch,WA
+99135,Hartline,WA
