@@ -11,7 +11,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.philhanna.diff.BaseTest;
-import com.philhanna.diff.samples.text.TextDiff;
 
 public class TestCommandLineDiff extends BaseTest {
 
