@@ -1,0 +1,65 @@
+3,5d2
+< 02911,North Providence,RI
+< 03262,North Woodstock,NH
+< 03272,South Newbury,NH
+8,10c5,6
+< 10532,Hawthorne,NY
+< 11427,Queens Village,NY
+< 12151,Round Lake,NY
+---
+> 07852,Ledgewood,NJ
+> 08063,National Park,NJ
+12,16d7
+< 13606,Adams Center,NY
+< 14070,Gowanda,NY
+< 15336,Gastonville,PA
+< 17324,Gardners,PA
+< 17364,Thomasville,PA
+20a12,18
+> 21082,Hydes,MD
+> 22554,Stafford,VA
+> 24062,Blacksburg,VA
+> 24460,Millboro,VA
+> 24550,Evington,VA
+> 25601,Logan,WV
+> 26691,Tioga,WV
+22c20,22
+< 30655,Monroe,GA
+---
+> 27551,Macon,NC
+> 29147,State Park,SC
+> 29431,Bonneau,SC
+26d25
+< 35761,New Market,AL
+29c28,36
+< 37384,Soddy Daisy,TN
+---
+> 38152,Memphis,TN
+> 40294,Louisville,KY
+> 40374,Sharpsburg,KY
+> 41539,Kimper,KY
+> 42044,Gilbertsville,KY
+> 48449,Lennon,MI
+> 49740,Harbor Springs,MI
+> 49765,Onaway,MI
+> 50264,Weldon,IA
+30a38,41
+> 55718,Carlton,MN
+> 56237,Echo,MN
+> 58352,Munich,ND
+> 58639,Hettinger,ND
+34,39d44
+< 61529,Elmwood,IL
+< 63039,Gray Summit,MO
+< 63563,Rutledge,MO
+< 65285,Thompson,MO
+< 66949,Jewell,KS
+< 67065,Isabel,KS
+43,44c48
+< 89103,Las Vegas,NV
+< 91977,Spring Valley,CA
+---
+> 70502,Lafayette,LA
+46a51,52
+> 94542,Hayward,CA
+> 95695,Woodland,CA
