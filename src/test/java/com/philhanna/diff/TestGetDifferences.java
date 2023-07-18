@@ -9,9 +9,6 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.philhanna.diff.Difference;
-import com.philhanna.diff.Differencer;
-
 /**
  * Unit tests for the <code>Differencer</code>, which compares two lists
  * and returns the list of <code>Difference</code> objects

@@ -1,7 +1,8 @@
 *.swp
-.project
+build/
+doc/
+target/
+*.class
 .classpath
-.settings/
-/build/
-/bin/
-/docs/
+.project
+.vscode/

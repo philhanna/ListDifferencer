@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.philhanna.diff.Differencer;
-
 import java.io.*;
 import java.net.URL;
 import java.util.*;

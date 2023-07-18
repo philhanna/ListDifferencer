@@ -9,8 +9,6 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.philhanna.diff.Differencer;
-
 /**
  * Unit tests for longest common subsequence
  */
